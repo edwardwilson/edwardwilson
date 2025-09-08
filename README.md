@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Edward Wilson</h1>
-<h2>Engineering Manager, @Instil</h2>
+<h2>Engineering Manager</h2>
 
 Contact
 
